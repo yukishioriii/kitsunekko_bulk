@@ -1,0 +1,6 @@
+*/files/*
+*.pyc
+.vscode
+/test/*
+*.srt
+*.ass
