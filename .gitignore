@@ -4,3 +4,5 @@
 /test/*
 *.srt
 *.ass
+unarchived/*
+*.txt
